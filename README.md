@@ -1,6 +1,6 @@
 # foo.bar
 
-This repository contains my journey through Google's "*secret*" recruitment tool **foo.bar**.
+The following repository contains all my solutions to the Google Foobar Challenge 2020.
 
 ![](screenshot.png)
 
@@ -10,26 +10,26 @@ This repository contains my journey through Google's "*secret*" recruitment tool
 
 ### Level 1
 
-- [Braille Translation](challenges/l1-braille-translation-2.md)
-- [Prison Labor Dodgers](challenges/l1-prison-labor-dodgers.md)
+- [Solar Doomsday](Level-1/solar_doomsday/solar_doomsday.md)
 
 ### Level 2
 
-- [Ion Flux Relabeling](challenges/l2-ion-flux-relabeling.md)
-- [Don't Get Volunteered](challenges/l2-dont-get-volunteered.md)
-- [Elevator Challenge](challenges/l2-elevator-challenge.md)
-- [Power Hungry](challenges/l2-power-hungry.md)
+- [Ion Flux Relabeling](Level-2/ion_flux_relabelling/ion_flux_relabelling.md)
+- [Power Hungry](Level-2/power_hungry/power_hungry.md)
 
 ### Level 3
 
-- [Bomb Baby](challenges/l3-bomb-baby.md)
-- [Prepare the Bunnies's Escape](challenges/l3-prepare-the-bunnies-escape.md)
-- [The Grandest Staircase Of Them All](challenges/l3-the-grandest-staircase-of-them-all.md)
-- [Fuel Injection Perfection](challenges/l3-fuel-injection-perfection.md)
-- [Doomsday Fuel](challenges/l3-doomsday-fuel.md)
+- [Bomb Baby](Level-3/bomb_baby/bomb-baby.md)
+- [Doomsday Fuel](Level-3/doomsday_fuel/doomsday_fuel.md)
+- [The Grandest Staircase Of Them All](Level-3/the_grandest_staircase_of_them_all/the_grandest_staircase_of_them_all.md)
 
-## Solutions
+### Level 4
 
-Switch to the `solutions/` directory and run the unit tests by issuing the following command from the command line:
+- [Free The Bunny Prisoners](Level-4/free_the_bunny_prisoners/free_the_bunny_prisoners.md)
+- [Running With Bunnies](Level-4/running_with_bunnies/running_with_bunnies.md)
 
-    make test
+### Level 5
+
+- [Dodge The Lasers](Level-5/dodge_the_lasers/dodge_the_lasers.md)
+
+
