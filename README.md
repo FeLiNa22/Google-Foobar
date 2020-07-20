@@ -6,7 +6,7 @@ The following repository contains all my solutions to the Google Foobar Challeng
 
 ## Challenges
 
-[Journal](Journal/journal.md)
+[Journal](Journal/README.md)
 
 ### Level 1
 
@@ -14,7 +14,7 @@ The following repository contains all my solutions to the Google Foobar Challeng
 
 ### Level 2
 
-- [Ion Flux Relabeling](Level-2/ion_flux_relabelling/README.md)
+- [Ion Flux Relabeling](Level-2/ion_flux_relabeling/README.md)
 - [Power Hungry](Level-2/power_hungry/README.md)
 
 ### Level 3
