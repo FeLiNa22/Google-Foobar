@@ -33,12 +33,6 @@ Tracing the probabilities of each, we find that:
 
 So, putting that together, and making a common denominator, gives an answer in the form of `[s2.numerator, s3.numerator, s4.numerator, s5.numerator, denominator]` which is `[0, 3, 2, 9, 14]`.
 
-Languages
-=========
-
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java  
-
 Test cases
 ==========
 
@@ -57,5 +51,3 @@ Inputs:
 Output:
 
     (int list) [0, 3, 2, 9, 14]
-
-Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
