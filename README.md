@@ -1,4 +1,4 @@
-# foo.bar
+# Google Foobar 2020
 
 The following repository contains all my solutions to the Google Foobar Challenge 2020.
 
