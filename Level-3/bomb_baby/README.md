@@ -44,11 +44,3 @@ Inputs:
 Output:
 
     (string) "impossible"
-
-
-* Expect numbers larger than 10^32! So use `BigInteger` for example.
-
-* If you are testing your solution and the tests are not running and instead you get a generic `error` it is most likely because the solution you have provided is unoptimized and is too slow. Test out your solution with big numbers.
-
-* If you want some good numbers to test edge case, provide a number N and N + 1 as long as they are greater than 1.
-Good luck!
