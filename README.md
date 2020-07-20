@@ -1,6 +1,7 @@
 # Google Foobar 2020
 
 The following repository contains all my solutions to the Google Foobar Challenge 2020.
+I have added a README file and my solution to each challenge under their respective directories.
 
 ![](screenshot.png)
 
