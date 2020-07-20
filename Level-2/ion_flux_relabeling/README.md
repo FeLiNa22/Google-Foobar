@@ -13,12 +13,6 @@ Write a function answer(h, q) - where h is the height of the perfect tree of con
 
 The domain of the integer h is `1 <= h <= 30`, where h = 1 represents a perfect binary tree containing only the root, h = 2 represents a perfect binary tree with the root and two leaf nodes, h = 3 represents a perfect binary tree with the root, two internal nodes and four leaf nodes (like the example above), and so forth.  The lists q and p contain at least one but no more than 10000 distinct integers, all of which will be between 1 and 2^h-1, inclusive.
 
-Languages
-=========
-
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java  
-
 Test cases
 ==========
 
