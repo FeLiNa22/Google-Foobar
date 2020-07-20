@@ -1,6 +1,8 @@
 Free the Bunny Prisoners
 ========================
 
+### Specification
+
 You need to free the bunny prisoners before Commander Lambda's space station explodes! Unfortunately, the commander was very careful with her highest-value prisoners - they're all held in separate, maximum-security cells. The cells are opened by putting keys into each console, then pressing the open button on each console simultaneously. When the open button is pressed, each key opens its corresponding lock on the cell. So, the union of the keys in all of the consoles must be all of the keys. The scheme may require multiple copies of one key given to different minions.
 
 The consoles are far enough apart that a separate minion is needed for each one. Fortunately, you have already freed some bunnies to aid you - and even better, you were able to steal the keys while you were working as Commander Lambda's assistant. The problem is, you don't know which keys to use at which consoles. The consoles are programmed to know which keys each minion had, to prevent someone from just stealing all of the keys and using them blindly. There are signs by the consoles saying how many minions had some keys for the set of consoles. You suspect that Commander Lambda has a systematic way to decide which keys to give to each minion such that they could use the consoles.
@@ -28,12 +30,6 @@ Finally, if you had 3 bunnies and required 2 of them to open the cell, then any 
   [0, 2],
   [1, 2],
 ]
-
-Languages
-=========
-
-To provide a Python solution, edit solution.py
-To provide a Java solution, edit Solution.java
 
 Test cases
 ==========
