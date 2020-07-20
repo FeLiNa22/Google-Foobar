@@ -7,12 +7,6 @@ You need to figure out which sets of panels in any given array you can take offl
 
 Each array of solar panels contains at least 1 and no more than 50 panels, and each panel will have a power output level whose absolute value is no greater than 1000 (some panels are malfunctioning so badly that they're draining energy, but you know a trick with the panels' wave stabilizer that lets you combine two negative-output panels to produce the positive output of the multiple of their power values). The final products may be very large, so give the answer as a string representation of the number.
 
-Languages
-=========
-
-To provide a Python solution, edit solution.py  
-To provide a Java solution, edit solution.java  
-
 Test cases
 ==========
 
@@ -31,5 +25,3 @@ Inputs:
 Output:
 
     (string) "60"
-
-Use verify [file] to test your solution and see how it does. When you are finished editing your code, use submit [file] to submit your answer. If your solution passes the test cases, it will be removed from your home folder.
