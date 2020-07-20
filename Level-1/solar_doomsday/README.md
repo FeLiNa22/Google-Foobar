@@ -12,8 +12,18 @@ So, following the example above; solution(12) returns [9, 1, 1, 1].
 Test cases
 ==========
 
-        Inputs: (int) area = 12
-        Output: [9, 1, 1, 1]
+Inputs: 
 
-        Inputs: (int) area = 15324
-        Output: [15129, 169, 25, 1]
+        (int) area = 12
+        
+Output: 
+
+        (int list) [9, 1, 1, 1]
+
+Inputs: 
+
+        (int) area = 15324
+        
+Output: 
+
+        (int list) [15129, 169, 25, 1]
