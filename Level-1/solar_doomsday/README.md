@@ -10,8 +10,8 @@ Write a function answer(area) that takes as its input a single unit of measure r
 Test cases
 ==========
 
-Inputs: (int) area = 12
-Output: [9, 1, 1, 1]
+        Inputs: (int) area = 12
+        Output: [9, 1, 1, 1]
 
-Inputs: (int) area = 15324
-Output: [15129, 169, 25, 1]
+        Inputs: (int) area = 15324
+        Output: [15129, 169, 25, 1]
