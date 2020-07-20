@@ -2,7 +2,7 @@
 
 The following repository contains all my solutions to the Google Foobar Challenge 2020.
 
-![](screenshot.png)
+![](banner.png)
 
 ## Challenges
 
